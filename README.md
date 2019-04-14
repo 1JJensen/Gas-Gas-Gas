@@ -1,4 +1,2 @@
 # Gas-Gas-Gas
-An unbeatable Rocket league bot
-
-I'll do something with thise later. Don't quote me on that though.
+I'll do something with this README thing later. Don't quote me on that though.
